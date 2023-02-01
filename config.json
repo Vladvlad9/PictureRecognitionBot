@@ -1,8 +1,8 @@
 {
   "BOT": {
-    "TOKEN": "5571028586:AAHvSaBspDcHkHU5v6doPOtcKsxRWYKLyv8",
+    "TOKEN": "6117192208:AAH76dp3Uc43p7EWbTTKQhhQwDXtJCzuBZs",
     "ADMINS": [381252111]
   },
-  "DATABASE": "postgres:postgres@localhost:5432/impuls"
+  "DATABASE": "root:postgres@localhost:5432/sarafan"
 
 }
